@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "IPhone15",
+    "price": 240,
+    "imgUrl": "/images/iphone1.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "SamsungPro",
+    "price": 400,
+    "imgUrl": "/images/iphone2.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "IPhone14ProMax",
+    "price": 350,
+    "imgUrl": "/images/iphone3.jpeg"
+  }
+]
